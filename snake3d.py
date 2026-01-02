@@ -2,7 +2,7 @@ from turtle import *
 from math import *
 from time import sleep
 from random import *
-#https://github.com/hjubb/3D-Turtle-in-Python/blob/master/3D%20Cube.py
+#Credit: https://github.com/hjubb/3D-Turtle-in-Python/blob/master/3D%20Cube.py
 setup()
 Mapturtle = Turtle()
 SnakeTurtle = Turtle()
@@ -425,5 +425,6 @@ DrawAllCubes()
 ##    rotate(10,0,0)
 ##    draw(cull_faces(mapverts,faces),False)
 ##    sleep(0.09)
+
 
 done()
